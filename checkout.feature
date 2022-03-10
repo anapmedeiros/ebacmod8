@@ -20,6 +20,7 @@
 
             Esquema do Cenário: e-mail com formato inválido
             Quando eu digitar <usuario>
+            E a <senha>
             Então deve exibir a <mensagem> de erro
 
             Exemplos:
